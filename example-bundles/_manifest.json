@@ -1,0 +1,79 @@
+{
+  "examples": [
+    {
+      "name": "adapters-showcase",
+      "fileCount": 16,
+      "sizeKB": 27.3
+    },
+    {
+      "name": "devtools-smoke",
+      "fileCount": 2,
+      "sizeKB": 7.7
+    },
+    {
+      "name": "vite-react-analytics",
+      "fileCount": 8,
+      "sizeKB": 6.5
+    },
+    {
+      "name": "vite-react-auth-reactions",
+      "fileCount": 8,
+      "sizeKB": 6.6
+    },
+    {
+      "name": "vite-react-chat-mentions",
+      "fileCount": 8,
+      "sizeKB": 7.6
+    },
+    {
+      "name": "vite-react-counter",
+      "fileCount": 8,
+      "sizeKB": 7.5
+    },
+    {
+      "name": "vite-react-debounced-search",
+      "fileCount": 8,
+      "sizeKB": 6.1
+    },
+    {
+      "name": "vite-react-diagram-table-sync",
+      "fileCount": 9,
+      "sizeKB": 11.7
+    },
+    {
+      "name": "vite-react-form-zod",
+      "fileCount": 8,
+      "sizeKB": 6.8
+    },
+    {
+      "name": "vite-react-modal-stack",
+      "fileCount": 8,
+      "sizeKB": 7.1
+    },
+    {
+      "name": "vite-react-notifications",
+      "fileCount": 8,
+      "sizeKB": 9.6
+    },
+    {
+      "name": "vite-react-onboarding",
+      "fileCount": 8,
+      "sizeKB": 6.9
+    },
+    {
+      "name": "vite-react-websocket-sync",
+      "fileCount": 8,
+      "sizeKB": 8.9
+    },
+    {
+      "name": "vite-solid-notifications",
+      "fileCount": 8,
+      "sizeKB": 5.1
+    },
+    {
+      "name": "vite-vue-notifications",
+      "fileCount": 8,
+      "sizeKB": 4.4
+    }
+  ]
+}
